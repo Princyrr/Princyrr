@@ -8,7 +8,7 @@ Apaixonada por transformar ideias em experiências digitais.
 ---
 
 ## 👩‍💻 Sobre mim
-
+ 
 Sou uma desenvolvedora Front-End, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
 Atuo no desenvolvimento **Web com React** e também no desenvolvimento **Mobile com React Native**, sempre buscando escrever códigos limpos, performáticos e acessíveis.
 Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evoluindo para me tornar uma profissional cada vez melhor.
@@ -20,7 +20,7 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 ## 🚀 Tecnologias e Ferramentas que uso:
 - ⚛️ React
 - 📱 React Native
-- 💅 HTML | CSS | JavaScript
+- 💅 HTML | CSS | JavaScript | TypeScript | 
 - 🎨 Figma (UI/UX)
 - 🛠️ Git | GitHub
 - 🧠 Aprendendo constantemente...
