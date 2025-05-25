@@ -3,7 +3,9 @@
 <p align="center">
 Desenvolvedora <strong>Front-End</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
 Apaixonada por transformar ideias em experiências digitais.
+
  </p>
+ 
 <p align="center">  <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong> </p>
 
 ---
@@ -60,7 +62,7 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 ## 📫 Onde me encontrar:
 - 💌 E-mail: **Princyrpiress@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-pires-171617128/)
--  https://priscilapires.netlify.app/
+- 👉 Página: https://priscilapires.netlify.app/
 
 ---
 
