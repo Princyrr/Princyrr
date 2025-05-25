@@ -39,6 +39,16 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 
 
 ---
+<!-- GitHub Stats -->
+![Priscila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Princyrr&show_icons=true&theme=react)
+
+---
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princyrr&layout=compact&theme=react)
+
+---
+
 
 ## 📫 Onde me encontrar:
 - 💌 E-mail: **Princyrpiress@gmail.com**
