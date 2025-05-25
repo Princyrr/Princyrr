@@ -44,7 +44,7 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 <br/>
 
 ### Ferramentas de Desenvolvimento
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Insomnia_Logo.svg" width="50px" title="Insomnia" alt="Insomnia"/>
+<img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="50px" title="Insomnia" alt="Insomnia"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" title="Visual Studio Code" alt="VS Code"/>
 
 <br/>
