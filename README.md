@@ -3,6 +3,7 @@
 <p align="center">
 Desenvolvedora <strong>Front-End</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
 Apaixonada por transformar ideias em experiências digitais.
+ <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong>
 </p>
 
 ---
