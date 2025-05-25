@@ -40,18 +40,17 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50px" title="PHP" alt="PHP"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" title="Python" alt="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React Native" alt="React Native"/>
-
-<br/>
-
-### Ferramentas de Desenvolvimento
 <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="50px" title="Insomnia" alt="Insomnia"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" title="Visual Studio Code" alt="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" title="Android" alt="Android"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50px" title="Tailwind CSS" alt="Tailwind CSS"/>
+<br/>
 
 <br/>
 
 ### Design e Edição Gráfica
-<img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="50px" title="Figma" alt="Figma"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/CorelDRAW_Logo.svg/1200px-CorelDRAW_Logo.svg.png" width="50px" title="CorelDRAW" alt="CorelDRAW"/>
+<img src="https://logospng.org/wp-content/uploads/figma.png" width="50px" title="Figma" alt="Figma"/>
+<img src="https://www.pngfind.com/pngs/m/514-5147806_coreldraw-graphics-suite-2019-png-transparent-png.png" width="50px" title="CorelDRAW" alt="CorelDRAW"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cc.svg" width="50px" title="Adobe Photoshop" alt="Adobe Photoshop"/>
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="50px" title="Adobe Illustrator" alt="Adobe Illustrator"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Creative_Cloud_icon.svg" width="50px" title="Adobe Creative Cloud" alt="Adobe Creative Cloud"/>
