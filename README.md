@@ -17,7 +17,6 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 
 ---
 
-## 🚀 Tecnologias e Ferramentas que uso:
 
 ## 🚀 Tecnologias e Ferramentas que uso:
 
