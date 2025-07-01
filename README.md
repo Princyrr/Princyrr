@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Priscila Ramonna! 👋</h1>
 
 <p align="center">
-Desenvolvedora <strong>Front-End</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
+Desenvolvedora <strong>Full Stack</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
 Apaixonada por transformar ideias em experiências digitais.
 
  </p>
@@ -12,9 +12,10 @@ Apaixonada por transformar ideias em experiências digitais.
 
 ## 👩‍💻 Sobre mim
  
-Sou uma desenvolvedora Front-End, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
+Sou uma desenvolvedora Full Stack, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
 Atuo no desenvolvimento **Web com React** e também no desenvolvimento **Mobile com React Native**, sempre buscando escrever códigos limpos, performáticos e acessíveis.
 Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evoluindo para me tornar uma profissional cada vez melhor.
+no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ✨ Meu objetivo é criar experiências digitais que sejam intuitivas, bonitas e eficientes, entregando valor para os usuários e para os negócios.
 
