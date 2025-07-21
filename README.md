@@ -72,6 +72,11 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 ---
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=ffa500)
+
+
+-------
+
 ## 📫 Onde me encontrar:
 - 💌 E-mail: **Princyrpiress@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-pires-171617128/)
