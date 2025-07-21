@@ -5,6 +5,7 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Princyrr&theme=default&background=ffa500&ring=ffffff&fire=ffffff&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true)](https://git.io/streak-stats)
 
 
 
@@ -17,8 +18,6 @@ Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evol
 no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ✨ Meu objetivo é criar experiências digitais que sejam intuitivas, bonitas e eficientes, entregando valor para os usuários e para os negócios.
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Princyrr&theme=orange&hide_border=false)
 
 
 
