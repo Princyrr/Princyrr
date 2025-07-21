@@ -5,8 +5,8 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Princyrr&theme=flat&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Princyrr&theme=dark)](https://git.io/streak-stats)
 
 
 
