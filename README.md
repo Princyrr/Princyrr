@@ -25,7 +25,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
-## 🛠️ Tecnologias e Ferramentas Que eu uso:
+
 
 <div align="center">
 
@@ -34,15 +34,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 ---
 
 ### 🎨 Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React" alt="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px" title="Next.js" alt="Next.js"/>
-<img src="https://vitejs.dev/logo.svg" width="50px" title="Vite" alt="Vite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50px" title="Webpack" alt="Webpack"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" title="JavaScript" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" title="TypeScript" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" title="HTML5" alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" title="CSS3" alt="CSS3"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50px" title="Tailwind CSS" alt="Tailwind CSS"/>
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,phpstorm,py,tailwind,ts,vite,vue&perline=3)](https://skillicons.dev)
 
 ---
 
