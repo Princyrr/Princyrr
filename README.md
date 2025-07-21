@@ -42,19 +42,19 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-<div align="center">
+
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princyrr&layout=compact&theme=react)
-</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=ffa500)
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
-<div align="center">
+
 ## 📫 Onde me encontrar:
 - 💌 E-mail: **Princyrpiress@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-pires-171617128/)
@@ -65,6 +65,6 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 <p align="center">
 Feito com ❤️ por <strong>Priscila Ramonna</strong>
 </p>
-</div>
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
