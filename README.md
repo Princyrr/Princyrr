@@ -82,3 +82,6 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 <p align="center">
 Feito com ❤️ por <strong>Priscila Ramonna</strong>
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
