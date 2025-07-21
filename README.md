@@ -41,13 +41,22 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,phpstorm,py,tailwind,ts,vite,vue,androidstudio,angular,apple,aws,django,dotnet,eclipse,express,figma,firebase,github,git,htmx,ai,java,jquery,mongodb,mysql,netlify,nodejs,npm,ps,supabase,wordpress,webpack,vscode,postgres&perline=3)](https://skillicons.dev)
+### 🎨 Front-end
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,tailwind,ts,angular,jquery,htmx,vite&perline=6)](https://skillicons.dev)
 
+### ⚙️ Back-end
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,dotnet,java,py,mongodb,mysql,postgres,supabase&perline=6)](https://skillicons.dev)
+
+### 🎯 UI / UX
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,apple&perline=4)](https://skillicons.dev)
+
+### 🛠️ Ferramentas & DevOps
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,phpstorm,eclipse,androidstudio,netlify,aws,npm,webpack,wordpress&perline=6)](https://skillicons.dev)
 
 <br/><br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" />
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -77,3 +86,4 @@ Feito com ❤️ por <strong>Priscila Ramonna</strong>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" />
