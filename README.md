@@ -11,7 +11,7 @@
 
 ##  Sobre mim <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="5%" />
  
-Sou <strong>Priscila Ramonna</strong>, uma desenvolvedora Full Stack, <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong> </p>, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
+Sou <strong>Priscila Ramonna</strong>, uma desenvolvedora Full Stack,  <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong>, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
 Atuo no desenvolvimento **Web com React** e também no desenvolvimento **Mobile com React Native**, sempre buscando escrever códigos limpos, performáticos e acessíveis.
 Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evoluindo para me tornar uma profissional cada vez melhor.
 no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
