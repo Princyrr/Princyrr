@@ -22,7 +22,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ✨ Meu objetivo é criar experiências digitais que sejam intuitivas, bonitas e eficientes, entregando valor para os usuários e para os negócios.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
 ## 🛠️ Tecnologias e Ferramentas Que eu uso:
@@ -57,24 +57,24 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 </div>
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 ### 🔧 Também trabalho com APIs REST, desenvolvimento web moderno e boas práticas em JavaScript e TypeScript.
 
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princyrr&layout=compact&theme=react)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=ffa500)
 
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
 ## 📫 Onde me encontrar:
@@ -82,7 +82,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-pires-171617128/)
 - 👉 Página: https://priscilaramonna.netlify.app/
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <p align="center">
 Feito com ❤️ por <strong>Priscila Ramonna</strong>
