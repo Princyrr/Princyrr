@@ -18,7 +18,8 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ✨ Meu objetivo é criar experiências digitais que sejam intuitivas, bonitas e eficientes, entregando valor para os usuários e para os negócios.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Princyrr&theme=orange&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Princyrr&theme=orange&hide_border=false)
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
