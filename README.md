@@ -1,6 +1,6 @@
 
   <img 
-  src="https://github.com/user-attachments/assets/e2e74ea9-9065-4ca0-8ffb-c05fb359a3cb" 
+  src="https://github.com/user-attachments/assets/3c5c0d29-a48f-4875-9567-99e242c33d46" 
   alt="github-header-image" 
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
