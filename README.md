@@ -5,7 +5,7 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+
 
 
 
@@ -80,6 +80,8 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 Feito com ❤️ por <strong>Priscila Ramonna</strong>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 </p>
 
 </div>
