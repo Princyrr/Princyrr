@@ -33,40 +33,9 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ---
 
-### 🎨 Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,phpstorm,py,tailwind,ts,vite,vue&perline=3)](https://skillicons.dev)
+### 🎨 Frontend e Backend
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,phpstorm,py,tailwind,ts,vite,vue,androidstudio,angular,apple,aws,django,dotnet,eclipse,express,figma,firebase,github,git,htmx,ai,java,jquery,mongodb,mysql,netflify,nodejs,npm,ps,supabase,wordpress,&perline=3)](https://skillicons.dev)
 
----
-
-### 🧠 Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" title="Node.js" alt="Node.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" title="Express.js" alt="Express.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" title="MongoDB" alt="MongoDB"/>
-<img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" width="50px" title="Insomnia" alt="Insomnia"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50px" title="Firebase" alt="Firebase"/>
-
----
-
-### 📱 Mobile
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" title="React Native" alt="React Native"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" title="Android" alt="Android"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" title="iOS" alt="iOS"/>
-
----
-
-### ✨ UI/UX
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma" alt="Figma"/>
-<img src="https://www.vecteezy.com/png/47657562-canva-3d-icon" width="50px" title="Canva" alt="Canva"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50px" title="Photoshop" alt="Photoshop"/>
-<img src="https://icons8.com.br/icons/set/corel-draw" width="50px" title="CorelDRAW" alt="CorelDRAW"/>
-
----
-
-### 🛠️ Ferramentas
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" title="Visual Studio Code" alt="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" title="GitHub" alt="GitHub"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.svg" width="50px" title="Notion" alt="Notion"/>
 
 <br/><br/>
 
