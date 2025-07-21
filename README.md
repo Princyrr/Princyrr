@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+![Header](./<img width="661" height="200" alt="github-header-image" src="https://github.com/user-attachments/assets/90ffe26e-2fa4-4abc-955e-fe0e5cda9646" />
+.png)
   
 
 <h1 align="center">Olá, eu sou a Priscila Ramonna! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="5%" />
