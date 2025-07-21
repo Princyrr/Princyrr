@@ -5,7 +5,7 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Princyrr&theme=default&background=ffa500&ring=ffffff&fire=ffffff&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=000000&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
 
 
