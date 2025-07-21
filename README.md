@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Gif animado" width="100%" />
 
-<h1 align="center">Olá, eu sou a Priscila Ramonna! 👋</h1>
+<h1 align="center">Olá, eu sou a Priscila Ramonna! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="100%" />
+</h1>
 
 <p align="center">
 Desenvolvedora <strong>Full Stack</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
@@ -10,7 +11,7 @@ Apaixonada por transformar ideias em experiências digitais.
  
 <p align="center">  <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong> </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="100%" />
 
 ## 👩‍💻 Sobre mim
  
