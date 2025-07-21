@@ -61,10 +61,6 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 
 ---
-<!-- GitHub Stats -->
-![Priscila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Princyrr&show_icons=true&theme=react)
-
----
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princyrr&layout=compact&theme=react)
@@ -75,7 +71,8 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=ffa500)
 
 
--------
+---
+
 
 ## 📫 Onde me encontrar:
 - 💌 E-mail: **Princyrpiress@gmail.com**
