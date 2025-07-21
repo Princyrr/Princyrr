@@ -33,7 +33,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,phpstorm,py,tailwind,ts,vite,vue,androidstudio,angular,apple,aws,django,dotnet,eclipse,express,figma,firebase,github,git,htmx,ai,java,jquery,mongodb,mysql,nettlify,nodejs,npm,ps,supabase,wordpress,webpack,vscode,&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,phpstorm,py,tailwind,ts,vite,vue,androidstudio,angular,apple,aws,django,dotnet,eclipse,express,figma,firebase,github,git,htmx,ai,java,jquery,mongodb,mysql,netlify,nodejs,npm,ps,supabase,wordpress,webpack,vscode,postgres&perline=3)](https://skillicons.dev)
 
 
 <br/><br/>
