@@ -64,7 +64,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ### ✨ UI/UX
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma" alt="Figma"/>
-<img src="https://logodownload.org/canva-logo/" width="50px" title="Canva" alt="Canva"/>
+<img src="https://www.vecteezy.com/png/47657562-canva-3d-icon" width="50px" title="Canva" alt="Canva"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50px" title="Photoshop" alt="Photoshop"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/CorelDRAW_Logo.png" width="50px" title="CorelDRAW" alt="CorelDRAW"/>
 
