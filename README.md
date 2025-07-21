@@ -1,4 +1,5 @@
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+![Header](./your-header-image-name.png)
+  
 
 <h1 align="center">Olá, eu sou a Priscila Ramonna! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="5%" />
 </h1>
@@ -22,6 +23,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ✨ Meu objetivo é criar experiências digitais que sejam intuitivas, bonitas e eficientes, entregando valor para os usuários e para os negócios.
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" />
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
