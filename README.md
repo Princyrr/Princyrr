@@ -6,6 +6,7 @@
 />
 
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Princyrr&theme=juicyfresh&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1)
 
 
 
