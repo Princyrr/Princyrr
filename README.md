@@ -6,6 +6,14 @@
 />
 
 
+fetch('https://github-stats.com/api/user/streak/current/Princyrr')
+  .then(res => res.json())
+  .then(data => {
+    console.log(`Current streak for ${data.user}: ${data.current_streak} days`);
+  })
+  .catch(console.error);
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Princyrr&theme=gruvbox&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1" alt="GitHub Trophy" />
 </div>
