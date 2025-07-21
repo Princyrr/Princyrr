@@ -5,7 +5,7 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" />
 
 <h1 align="center">Olá, eu sou a Priscila Ramonna! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="5%" />
 </h1>
@@ -37,7 +37,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 <div align="center">
 
-## 🚀 Stack de Desenvolvimento Que Eu Uso
+## 🚀 Stack de Desenvolvimento
 
 ---
 
@@ -86,4 +86,4 @@ Feito com ❤️ por <strong>Priscila Ramonna</strong>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="50%" />
+
