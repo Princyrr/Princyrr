@@ -5,7 +5,8 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=Princyrr&theme=onestar&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Princyrr&theme=gruvbox&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1)
+
 
 
 
