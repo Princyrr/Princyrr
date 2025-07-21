@@ -5,8 +5,8 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Princyrr&theme=dark" alt="GitHub Streak" /></a>
 
 
 
