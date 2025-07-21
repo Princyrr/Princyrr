@@ -1,6 +1,6 @@
 
   <img 
-  src="https://github.com/user-attachments/assets/cfcab8dc-10f4-4ca2-adbf-e7e048ecef7c" 
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffa500&text=Priscila%20Ramonna&reversal=false&textBg=false&fontColor=fff&fontSize=50&animation=fadeIn&section=header" 
   alt="github-header-image" 
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
