@@ -54,7 +54,8 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Princyrr&theme=github-compact&color=ffa500)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Princyrr&theme=github-compact&color=ffa500)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
