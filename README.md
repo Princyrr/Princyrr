@@ -64,11 +64,13 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ## 📫 Onde me encontrar:
 
-[![Email](https://img.shields.io/badge/email-princyrpiress%40gmail.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:princyrpiress@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscila%20Pires-orange?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-pires-171617128/)
-[![GitHub](https://img.shields.io/badge/GitHub-Princyrr-orange?style=flat-square&logo=github&logoColor=white)](https://github.com/Princyrr)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-81988115840-orange?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5581988115840)
-[![Website](https://img.shields.io/badge/Website-prdeveloper.com.br-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://www.prdeveloper.com.br)
+## 📬 Contato
+
+- [![Email](https://img.shields.io/badge/email-princyrpiress%40gmail.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:princyrpiress@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscila%20Pires-orange?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-pires-171617128/)
+- [![GitHub](https://img.shields.io/badge/GitHub-Princyrr-orange?style=flat-square&logo=github&logoColor=white)](https://github.com/Princyrr)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-81988115840-orange?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5581988115840)
+- [![Website](https://img.shields.io/badge/Website-prdeveloper.com.br-orange?style=flat-square&logo=google-chrome&logoColor=white)](https://www.prdeveloper.com.br)
 
 
 </div>
