@@ -63,6 +63,9 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 
 ## 📫 Onde me encontrar:
+[![Email](https://img.shields.io/badge/email-princyrrpires%40gmail.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:princyrrpires@gmail.com)
+
+
 - 💌 [e-mail](https://img.shields.io/badge/build-passing-brigh?style=social&logo=email&logoColor=orange&link=princyrrpires%40gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/priscila-pires-171617128/)
 - 👉 Página: https://priscilaramonna.netlify.app/
