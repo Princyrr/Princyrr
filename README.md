@@ -5,9 +5,14 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Princyrr&theme=gruvbox&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1" alt="GitHub Trophy" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=Princyrr&theme=gruvbox&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1" alt="GitHub Trophy" />
+    </td>
+  </tr>
+</table>
+
 
 
 ##  Sobre mim <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="10%" />
