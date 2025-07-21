@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-Desenvolvedora <strong>Full Stack</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
+Sou Priscila Ramonna, Desenvolvedora <strong>Full Stack</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
 Apaixonada por transformar ideias em experiências digitais.
 
  </p>
