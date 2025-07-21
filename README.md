@@ -44,7 +44,7 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50px" title="Android" alt="Android"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50px" title="iOS" alt="iOS"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50px" title="Tailwind CSS" alt="Tailwind CSS"/>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 
 <br/>
