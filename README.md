@@ -7,22 +7,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
-<h1 align="center">Olá, <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="5%" />
-</h1>
 
-<p align="center">
-Sou <strong>Priscila Ramonna</strong>, Desenvolvedora <strong>Full Stack</strong> focada em criar interfaces incríveis para <strong>Web</strong> e <strong>Mobile</strong>.<br>
-Apaixonada por transformar ideias em experiências digitais.
 
- </p>
+##  Sobre mim <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="Gif de tecnologia" width="5%" />
  
-<p align="center">  <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong> </p>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-## 👩‍💻 Sobre mim
- 
-Sou uma desenvolvedora Full Stack, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
+Sou <strong>Priscila Ramonna</strong>, uma desenvolvedora Full Stack, <strong>🎓 Graduada em Sistemas para Internet(Faculdade Senac)</strong> </p>, apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas.
 Atuo no desenvolvimento **Web com React** e também no desenvolvimento **Mobile com React Native**, sempre buscando escrever códigos limpos, performáticos e acessíveis.
 Amo aprender coisas novas, compartilhar conhecimento e estou constantemente evoluindo para me tornar uma profissional cada vez melhor.
 no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
@@ -87,3 +76,8 @@ Feito com ❤️ por <strong>Priscila Ramonna</strong>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
+
+  <img 
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffa500&reversal=false&textBg=false&fontColor=fff&fontSize=50&animation=fadeIn&section=footer" 
+  style="width: 100%; max-width: 1200px; height: auto;" 
+/>
