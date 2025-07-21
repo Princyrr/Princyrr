@@ -84,4 +84,4 @@ Feito com ❤️ por <strong>Priscila Ramonna</strong>
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
