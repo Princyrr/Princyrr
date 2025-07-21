@@ -81,10 +81,11 @@ Feito com ❤️ por <strong>Priscila Ramonna</strong>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
+<img src="https://github.com/user-attachments/assets/74a938d0-9e14-4d70-a456-0a634e0d915f" width="100%" />
 </p>
 
 </div>
+
 
   <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffa500&reversal=false&textBg=false&fontColor=fff&fontSize=50&animation=fadeIn&section=footer" 
