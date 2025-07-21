@@ -8,6 +8,7 @@
 
 Sou <strong>Priscila Ramonna</strong>, uma desenvolvedora Full Stack, graduada em Sistemas para Internet (Faculdade Senac), apaixonada por tecnologia, desafios e pela construção de projetos que façam a diferença na vida das pessoas...
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 ---
 
 <div align="center">
@@ -30,14 +31,14 @@ Sou <strong>Priscila Ramonna</strong>, uma desenvolvedora Full Stack, graduada e
 
 ---
 
-<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Princyrr&layout=compact&title_color=007ACC&text_color=000000&bg_color=ffa500)
-</p>
 
-<p align="center">
+
+
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Princyrr&show_icons=true&bg_color=ffa500)
-</p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 ---
 
 ## 📫 Onde me encontrar:
