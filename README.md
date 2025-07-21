@@ -4,7 +4,7 @@
   alt="github-header-image" 
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 
 
@@ -64,7 +64,6 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ## 📫 Onde me encontrar:
 
-## 📬 Contato
 
 - [![Email](https://img.shields.io/badge/email-princyrpiress%40gmail.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:princyrpiress@gmail.com)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscila%20Pires-orange?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-pires-171617128/)
@@ -75,14 +74,15 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 </div>
 
+
 <div align="center">
 <p align="center">
 Feito com ❤️ por <strong>Priscila Ramonna</strong>
 </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
 
-
-
+</div>
 
   <img 
   src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ffa500&reversal=false&textBg=false&fontColor=fff&fontSize=50&animation=fadeIn&section=footer" 
