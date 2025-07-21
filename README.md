@@ -1,11 +1,9 @@
 
   <img 
-  src="https://github.com/user-attachments/assets/67e0f648-9973-4981-a54f-83e469071e64" 
+  src="https://github.com/user-attachments/assets/cfcab8dc-10f4-4ca2-adbf-e7e048ecef7c" 
   alt="github-header-image" 
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
-
-
 
 
 
