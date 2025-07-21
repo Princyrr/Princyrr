@@ -81,7 +81,7 @@ Feito com ❤️ por <strong>Priscila Ramonna</strong>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
-<img width="868" height="40" alt="image" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+<img width="100%" height="auto" alt="image" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
 </p>
 
