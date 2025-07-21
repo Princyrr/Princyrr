@@ -62,11 +62,18 @@ no Back End eu trabalho com Node.js, Banco de Dados MongoDB, Firebase...
 
 ---
 
-### 🎨 UI/UX & Ferramentas
+### ✨ UI/UX
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma" alt="Figma"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Canva_logo_2021.svg" width="50px" title="Canva" alt="Canva"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50px" title="Photoshop" alt="Photoshop"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/CorelDRAW_Logo.png" width="50px" title="CorelDRAW" alt="CorelDRAW"/>
+
+---
+
+### 🛠️ Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px" title="Visual Studio Code" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git" alt="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" title="GitHub" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma" alt="Figma"/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.svg" width="50px" title="Notion" alt="Notion"/>
 
 <br/><br/>
