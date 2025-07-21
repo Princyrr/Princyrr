@@ -5,13 +5,10 @@
   style="width: 100%; max-width: 1200px; height: auto;" 
 />
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=Princyrr&theme=gruvbox&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1" alt="GitHub Trophy" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Princyrr&theme=gruvbox&title=Stars,Commits,Followers,PullRequest,Issues&margin-w=10&row=1" alt="GitHub Trophy" />
+</div>
+
 
 
 
