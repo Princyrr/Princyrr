@@ -19,7 +19,8 @@ Uma desenvolvedora Full Stack, graduada em Sistemas para Internet (Faculdade Sen
 [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,tailwind,ts,angular,jquery,htmx,vite&perline=6)](https://skillicons.dev)
 
 ### ⚙️ Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,dotnet,java,py,mongodb,mysql,postgres,supabase&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,dotnet,java,py,mongodb,mysql,postgres,supabase,php&perline=6)](https://skillicons.dev)
+
 
 ### 🎯 UI / UX
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,apple&perline=4)](https://skillicons.dev)
