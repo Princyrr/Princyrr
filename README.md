@@ -45,7 +45,7 @@ Uma desenvolvedora Full Stack, graduada em Sistemas para Internet (Faculdade Sen
 
 ## 📫 Onde me encontrar:
 
-- [![Email](https://img.shields.io/badge/email-princyrpiress%40gmail.com-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:priscilapires@fiepb.org.br)
+- [![Email](https://img.shields.io/badge/email-priscilapires%40fiepb.org.br-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:priscilapires@fiepb.org.br)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Priscila%20Pires-orange?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscila-pires-171617128/)
 - [![GitHub](https://img.shields.io/badge/GitHub-Princyrr-orange?style=flat-square&logo=github&logoColor=white)](https://github.com/Princyrr)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-81988115840-orange?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5581988115840)
