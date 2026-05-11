@@ -19,7 +19,7 @@ Atuando no 🏢🏭---> Observatório - FIEPB
 [![My Skills](https://skillicons.dev/icons?i=react,vue,flutter,babel,bootstrap,css,html,js,nextjs,tailwind,ts,angular,jquery,htmx,vite&perline=6)](https://skillicons.dev)
 
 ### ⚙️ Back-end
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,dotnet,java,py,mongodb,mysql,postgres,supabase,php&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,dotnet,java,mongodb,mysql,postgres,supabase,php&perline=6)](https://skillicons.dev)
 
 
 ### 🎯 UI / UX
